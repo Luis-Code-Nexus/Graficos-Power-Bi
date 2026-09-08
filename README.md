@@ -14,5 +14,5 @@ Estos son ejercicios que estuve practicando con las tablas SQL SERVER llevadas a
 </p>
 
 <p align="center">
-  <img src="Screenshot 2026-09-28 172545.png" >
+  <img src="Screenshot 2026-09-08 172545.png" >
 </p>
